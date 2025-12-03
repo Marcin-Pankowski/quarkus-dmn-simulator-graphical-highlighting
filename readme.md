@@ -47,7 +47,7 @@ java -jar target/quarkus-app/quarkus-run.jar
 
 1. Start the app (dev or packaged mode).
 2. Open the UI at http://localhost:8080/.
-3. Upload a Camunda 7 DMN XML file (`.dmn`).
+3. Upload a Camunda DMN XML file (`.dmn`).
 4. Select a decision from the dropdown.
 5. Fill in the generated input form.
 6. Click **Evaluate DMN**.
