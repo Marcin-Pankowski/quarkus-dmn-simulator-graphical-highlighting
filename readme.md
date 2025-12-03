@@ -1,4 +1,7 @@
+![www.piu.de](./img/logo.png)
 # Camunda DMN Simulator (Quarkus)
+
+![Screenshot](./img/screenshot.png)
 
 A small Quarkus application that lets you upload a Camunda 7 or 8 DMN (`.dmn`) file, choose a decision, enter input variables via a generated form and evaluate it. The matching decision table rules are highlighted visually in the browser.
 
